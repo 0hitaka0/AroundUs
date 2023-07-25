@@ -1,0 +1,239 @@
+{
+    "activeFile": "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/house.tmx",
+    "fileStates": {
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/10_Vehicles_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/1_Terrains_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/1_Terrains_and_Fences_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/2_City_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/2_City_Terrains_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/3_Buildings_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/3_City_Props_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/4_Generic_Buildings_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/4_Villas_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/5_Camping_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/5_Floor_Modular_Buildings_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/6_Garage_Sales_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/8_Worksite_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/9_Shopping_Center_and_Markets_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/house.tmx": {
+            "expandedGroupLayers": [
+                6
+            ],
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 131,
+                "y": 124
+            }
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/map.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 214,
+                "y": 442
+            }
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/map1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 130.66666666666663,
+                "y": 188
+            }
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/market.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 418.18181818181813,
+                "y": -172.72727272727275
+            }
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/myHouse.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 212,
+                "y": -93.33333333333331
+            }
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/warnet.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 94.66666666666664,
+                "y": 108
+            }
+        },
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/warnet1.tmx": {
+            "expandedGroupLayers": [
+                7
+            ],
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 142,
+                "y": 48
+            }
+        },
+        "Interior.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "Shop.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Vehicles.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.75
+        },
+        "buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "camping.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.75
+        },
+        "city.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1.5
+        },
+        "cityProps.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        },
+        "cityTerrains.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "floorModular.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "fullInterior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "houses.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.125
+        },
+        "marketplace.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "officeInterior.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "overworld.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "roomBuilder.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "terrains.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        },
+        "test.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 0.33
+        },
+        "walls.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "warnet.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 144,
+                "y": 161.3333333333333
+            }
+        },
+        "worksite.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/5_Floor_Modular_Buildings_16x16.tsx",
+        "warnet.tmx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/9_Shopping_Center_and_Markets_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/10_Vehicles_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/house.tmx"
+    ],
+    "recentFiles": [
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/5_Floor_Modular_Buildings_16x16.tsx",
+        "warnet.tmx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/9_Shopping_Center_and_Markets_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/10_Vehicles_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/house.tmx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/6_Garage_Sales_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/3_City_Props_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/4_Generic_Buildings_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/4_Villas_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/5_Camping_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/8_Worksite_16x16.tsx",
+        "D:/TA/Unity/Project101/Assets/SuperTiled2Unity/Imported/2_City_Terrains_16x16.tsx"
+    ]
+}

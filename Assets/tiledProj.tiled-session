@@ -1,0 +1,216 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "SuperTiled2Unity/Imported",
+        "SuperTiled2Unity",
+        ".",
+        "SuperTiled2Unity/Imported/Maps"
+    ],
+    "fileStates": {
+        "SuperTiled2Unity/Imported/Interiors_free_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/Maps/casa.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 162,
+                "y": -60
+            }
+        },
+        "SuperTiled2Unity/Imported/Maps/house.tmx": {
+            "scale": 1.2765625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 128.47001223990205,
+                "y": 128.47001223990208
+            }
+        },
+        "SuperTiled2Unity/Imported/Maps/warnet.tmx": {
+            "scale": 0.817,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 200.73439412484697,
+                "y": 200.734394124847
+            }
+        },
+        "SuperTiled2Unity/Imported/Maps/world.tmx": {
+            "scale": 1,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 211,
+                "y": 196
+            }
+        },
+        "SuperTiled2Unity/Imported/Room_Builder_free_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/1_Terrains_16x16.tsx": {
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/1_Terrains_and_Fences_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/2_City_Terrains_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/3_City_Props_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/4_Generic_Buildings_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/4_Villas_16x16.tsx": {
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/6_Garage_Sales_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/9_Shopping_Center_and_Markets_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Interiors_free_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Office_interiors_16x16.tsx": {
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Room_Builder_free_16x16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Tileset_16x16_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Tileset_16x16_16.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Tileset_16x16_2.tsx": {
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Tileset_16x16_3.tsx": {
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/TileMaps/Tileset_16x16_9.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/Tileset_16x16_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/Tileset_16x16_16.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/Tileset_16x16_3.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/Tileset_16x16_9.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "SuperTiled2Unity/Imported/house.tmx": {
+            "scale": 1.128125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 122.32686980609418,
+                "y": 249.08587257617728
+            }
+        },
+        "SuperTiled2Unity/Imported/myHouse.tmx": {
+            "scale": 0.9025,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 115.23545706371192,
+                "y": 238.22714681440445
+            }
+        },
+        "SuperTiled2Unity/Tiled/Interior.tsx": {
+            "scaleInDock": 1
+        },
+        "SuperTiled2Unity/Tiled/city.tsx": {
+            "scaleInDock": 1
+        },
+        "SuperTiled2Unity/Tiled/cityProps.tsx": {
+            "scaleInDock": 1
+        },
+        "SuperTiled2Unity/Tiled/floorModular.tsx": {
+            "scaleInDock": 1
+        },
+        "SuperTiled2Unity/Tiled/fullInterior.tsx": {
+            "scaleInDock": 1
+        },
+        "SuperTiled2Unity/Tiled/officeInterior.tsx": {
+            "scaleInDock": 1
+        },
+        "SuperTiled2Unity/Tiled/roomBuilder.tsx": {
+            "scaleInDock": 1
+        },
+        "SuperTiled2Unity/Tiled/walls.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled/Interior.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled/fullInterior.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled/officeInterior.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled/roomBuilder.tsx": {
+            "scaleInDock": 1
+        },
+        "Tiled/walls.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "D:/TA/Unity/Project101/Assets/Art/Exterior",
+    "map.height": 25,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 25,
+    "openFiles": [
+        "SuperTiled2Unity/Imported/house.tmx",
+        "SuperTiled2Unity/Imported/Tileset_16x16_9.tsx",
+        "SuperTiled2Unity/Imported/Tileset_16x16_16.tsx"
+    ],
+    "project": "tiledProj.tiled-project",
+    "recentFiles": [
+        "SuperTiled2Unity/Imported/TileMaps/3_City_Props_16x16.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/4_Generic_Buildings_16x16.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/6_Garage_Sales_16x16.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/9_Shopping_Center_and_Markets_16x16.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/1_Terrains_and_Fences_16x16.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/2_City_Terrains_16x16.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/4_Villas_16x16.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/1_Terrains_16x16.tsx",
+        "SuperTiled2Unity/Imported/Maps/house.tmx",
+        "SuperTiled2Unity/Imported/Maps/warnet.tmx",
+        "SuperTiled2Unity/Imported/TileMaps/Tileset_16x16_1.tsx",
+        "SuperTiled2Unity/Imported/TileMaps/Office_interiors_16x16.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

@@ -1,0 +1,248 @@
+﻿{
+    "inkVersion": 21,
+    "root": [
+      [
+        "ev",
+        "str",
+        "^Assalammu'alaikum kak..",
+        "/str",
+        "/ev",
+        {
+          "*": "0.c-0",
+          "flg": 4
+        },
+        "ev",
+        "str",
+        "^Kak tolong transferin uang",
+        "/str",
+        "/ev",
+        {
+          "*": "0.c-1",
+          "flg": 4
+        },
+        {
+          "c-0": [
+            "\n",
+            "^Assalammu'alaikum kak, ini nana",
+            "\n",
+            {
+              "->": "why"
+            },
+            {
+              "->": "0.g-0"
+            },
+            {
+              "#f": 5
+            }
+          ],
+          "c-1": [
+            "\n",
+            "^Kak boleh kirimin uang ga?",
+            "\n",
+            {
+              "->": "who"
+            },
+            {
+              "->": "0.g-0"
+            },
+            {
+              "#f": 5
+            }
+          ],
+          "g-0": [
+            "done",
+            {
+              "#f": 5
+            }
+          ]
+        }
+      ],
+      "done",
+      {
+        "why": [
+          [
+            "^Ada apa na? Ini nomor siapa?",
+            "\n",
+            "ev",
+            "str",
+            "^Boleh minta tolong ga kak? Ini aku lagi di rumah temen",
+            "/str",
+            "/ev",
+            {
+              "*": ".^.c-0",
+              "flg": 4
+            },
+            "ev",
+            "str",
+            "^Aku butuh uang kak, tolong transferin",
+            "/str",
+            "/ev",
+            {
+              "*": ".^.c-1",
+              "flg": 4
+            },
+            {
+              "c-0": [
+                "\n",
+                "^Ini nomor temenku kak. Aku lagi main sama temen. Kak boleh ga minta tolong transferin?",
+                "\n",
+                {
+                  "->": "want"
+                },
+                {
+                  "#f": 5
+                }
+              ],
+              "c-1": [
+                "\n",
+                "^Kak tolong transferin 2 juta ke nomor rekening ini ya 664839987",
+                "\n",
+                {
+                  "->": "transfer"
+                },
+                {
+                  "#f": 5
+                }
+              ]
+            }
+          ],
+          {
+            "#f": 1
+          }
+        ],
+        "want": [
+          [
+            "^Boleh, untuk apa dek?",
+            "\n",
+            "ev",
+            "str",
+            "^Mau bayar renang kak",
+            "/str",
+            "/ev",
+            {
+              "*": ".^.c-0",
+              "flg": 4
+            },
+            {
+              "c-0": [
+                "\n",
+                "^Minggu depan aku berenang kak tapi belum bayar",
+                "\n",
+                {
+                  "->": "swim"
+                },
+                {
+                  "#f": 5
+                }
+              ]
+            }
+          ],
+          {
+            "#f": 1
+          }
+        ],
+        "transfer": [
+          [
+            "^Buat apa uang sebanyak itu? Ini penipu ya?",
+            "\n",
+            "ev",
+            "str",
+            "^Buruan kak penting banget ini",
+            "/str",
+            "/ev",
+            {
+              "*": ".^.c-0",
+              "flg": 4
+            },
+            "ev",
+            "str",
+            "^Bukan kak, ini nanaaa",
+            "/str",
+            "/ev",
+            {
+              "*": ".^.c-1",
+              "flg": 4
+            },
+            {
+              "c-0": [
+                "\n",
+                "^Ini nana kakkkkk. Tolong cepet transfer ya",
+                "\n",
+                {
+                  "->": "sus"
+                },
+                {
+                  "#f": 5
+                }
+              ],
+              "c-1": [
+                "\n",
+                "^Ini beneran nana kak",
+                "\n",
+                {
+                  "->": "swim"
+                },
+                {
+                  "#f": 5
+                }
+              ]
+            }
+          ],
+          {
+            "#f": 1
+          }
+        ],
+        "sus": [
+          [
+            "^Penipu ya lu????",
+            "\n",
+            "end",
+            {
+              "#f": 1
+            }
+          ]
+        ],
+        "swim": [
+          [
+            "^Oke, butuh berapa dek?",
+            "\n",
+            "ev",
+            "str",
+            "^100.000",
+            "/str",
+            "/ev",
+            {
+              "*": ".^.c-0",
+              "flg": 4
+            },
+            "ev",
+            "str",
+            "^1.000.000",
+            "/str",
+            "/ev",
+            {
+              "*": ".^.c-1",
+              "flg": 4
+            },
+            {
+              "c-0": [
+                "\n",
+                "^Aku butuh 100.000 untuk bayar masuk renangnya sama beli makanan kak. nanti kirim ke gopayku aja ya 083337568900",
+                "\n",
+                {
+                  "->": "thanks"
+                },
+                {
+                  "#f": 5
+                }
+              ],
+              "c-1": [
+                "\n",
+                "^Kirimin 1.000.000 ke BCA 664839987",
+                "\n",
+                {
+                  "->": "transfer"
+                },
+                {
+                  "#
+  
