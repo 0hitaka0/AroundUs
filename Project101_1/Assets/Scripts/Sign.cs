@@ -3,20 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Sign : MonoBehaviour
+public class Sign : Interactable
 {
-    public SignalSender contextOn;
-    public SignalSender contextOff;
+
     public GameObject dialogBox;
     public Text dialogText;
     public string dialog;
-    public bool playerInRange;
 
-    // Start is called before the first frame update
+    // Use this for initialization
     void Start()
     {
-        // Hide the dialog box initially when the game starts
-        HideDialogBox();
+
     }
 
     // Update is called once per frame
@@ -24,43 +21,25 @@ public class Sign : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Space) && playerInRange)
         {
-            ToggleDialogBox();
-        }
-    }
-
-    void ToggleDialogBox()
-    {
-        // Toggle the dialog box visibility and update the dialog text
-        dialogBox.SetActive(!dialogBox.activeSelf);
-        if (dialogBox.activeSelf)
-        {
-            dialogText.text = dialog;
-        }
-    }
-
-    public void HideDialogBox()
-    {
-        // Hide the dialog box and reset the dialog text
-        dialogBox.SetActive(false);
-        dialogText.text = "";
-    }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Player"))
-        {
-            contextOn.Raise();
-            playerInRange = true;
+            if (dialogBox.activeInHierarchy)
+            {
+                dialogBox.SetActive(false);
+            }
+            else
+            {
+                dialogBox.SetActive(true);
+                dialogText.text = dialog;
+            }
         }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player"))
+        if (other.CompareTag("Player") && !other.isTrigger)
         {
-            contextOff.Raise();
             playerInRange = false;
-            HideDialogBox();
+            dialogBox.SetActive(false);
         }
     }
+
 }

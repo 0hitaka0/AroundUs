@@ -8,8 +8,10 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
-  missingFiles: []
-  errors: []
+  missingFiles:
+  - ../../Art/Exterior/1_Terrains_and_Fences_16x16.png
+  errors:
+  - 'Missing texture asset: ../../Art/Exterior/1_Terrains_and_Fences_16x16.png'
   warnings: []
   missingSortingLayers: []
   missingLayers: []
@@ -17,7 +19,7 @@ ScriptedImporter:
   importerVersion: 13
   pixelsPerUnit: 16
   edgesPerEllipse: 32
-  numberOfObjectsImported: 2947
+  numberOfObjectsImported: 2
   useSpriteAtlas: 1
   atlasWidth: 2048
   atlasHeight: 2048
